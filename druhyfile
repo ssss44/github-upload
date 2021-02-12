@@ -1,0 +1,4 @@
+eval `ssh-agent -s`
+ssh-add
+
+### a pozres si s ssh-add -l
